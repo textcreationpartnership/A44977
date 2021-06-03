@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble hint to the King and Kingdom on the coronation-day of James the II, &amp;c. expressing the due love and loyalty of the humblest amongst His Majesties servants.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44977</idno><idno type="EEBO-CITATION">11849318</idno>
+  <idno type="VID">49887</idno>
+  <idno type="EEBO-PROQUEST">2248516475</idno>
+  
+            <idno type="STC">Wing H3417</idno>
+            <idno type="STC">ESTC R15505</idno>
+            <idno type="OCLC">11849318</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble hint to the King and Kingdom on the coronation-day of James the II, &amp;c. expressing the due love and loyalty of the humblest amongst His Majesties servants.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Coronation --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49887:1"/>
+            <pb facs="tcp:49887:1"/>
+            <p>AN Humble HINT TO THE King and Kingdom ON THE Coronation-Day OF JAMES the II. &amp;c. Expressing the Due LOVE and LOYALTY Of the Humblest amongst His Majesties Servants.</p>
+            <p>Printed by <hi>Nathaniel Thompson</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Cross,</hi> MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="eulogy">
+            <pb facs="tcp:49887:2"/>
+            <pb facs="tcp:49887:2"/>
+            <div type="part">
+               <head>TO THE KING Upon the Day of His CORONATION</head>
+               <lg>
+                  <l>PRosper Great <hi>Monarch</hi> in that Royal Throne,</l>
+                  <l>Which all True <hi>English</hi> Hearts do this day own</l>
+                  <l>Is due unto Thy Sacred Self alone.</l>
+               </lg>
+               <lg>
+                  <l>Take here Thy Peoples Love, the Richest Gem</l>
+                  <l>That does this day Adorn Thy <hi>Diadem,</hi>
+                  </l>
+                  <l>Illustrating at once both Thee and Them.</l>
+               </lg>
+               <lg>
+                  <l>Proceed as Thou'st begun, let to Thy Court</l>
+                  <l>None Vicious, but the Virtuous Resort;</l>
+                  <l>Thou'lt have a Richer Crown than this is for't.</l>
+               </lg>
+               <lg>
+                  <l>None will at thy Blest Policy repine,</l>
+                  <l>So Safe and Sacred is thy Grand Design,</l>
+                  <l>Being to plant Vertues in thy Self and Thine.</l>
+               </lg>
+               <lg>
+                  <l>Virtue's of such Import, of such Renown,</l>
+                  <l>As will yield ev'ry Subjects Head a Crown,</l>
+                  <l>Equal in endless value to thine own.</l>
+               </lg>
+               <lg>
+                  <l>What Blessings can our wish from Heaven bring,</l>
+                  <l>Beyond the Love and Care of such a King</l>
+                  <l>As would Advantage Us in every thing?</l>
+               </lg>
+               <pb n="2" facs="tcp:49887:3"/>
+               <lg>
+                  <l>Like in a Deluge to a Saving Ark,</l>
+                  <l>Thou drawst from Danger, lead'st us out o'th Dark;</l>
+                  <l>And play'st by Princely Pow'r the <hi>Patriarck.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thy Awful <hi>Scepter, Crosier</hi>-like Distills</l>
+                  <l>Such Divine Bounty as the Needful fills</l>
+                  <l>With Gracious Gifts agreeing with our Wills.</l>
+               </lg>
+               <lg>
+                  <l>Then let thy Charming Favours hence expect,</l>
+                  <l>We'll with our Prayers Thee to our Powers protect,</l>
+                  <l>And all Disturbers of thy Peace detect.</l>
+               </lg>
+               <lg>
+                  <l>Keep still thy Fame, with God in high request;</l>
+                  <l>And then 'twill be by all true Hearts confest,</l>
+                  <l>Their Love to Thee's their Heav'nly Interest.</l>
+               </lg>
+               <lg>
+                  <l>Let in each Act concerns the Realm, thine Eye</l>
+                  <l>Consult the Great All-seeing Deity,</l>
+                  <l>That VVe for Bliss may with all Nations vie.</l>
+               </lg>
+               <lg>
+                  <l>Let to Thy Zealous Bless'd Resolves be wed</l>
+                  <l>Dispatch, that now it may be boldly said;</l>
+                  <l>The Crown sits well on <hi>Resolutions</hi> Head,</l>
+               </lg>
+               <lg>
+                  <l>Where Courage, Kindness, Care and Conduct wait</l>
+                  <l>To Bless the Church with Zeal, with Peace the State,</l>
+                  <l>And make the Realm by their Protection Great.</l>
+               </lg>
+               <lg>
+                  <l>'Tis from Thy New-Crown'd-Head, that now we may</l>
+                  <l>Expect such Wise Directions to Obey,</l>
+                  <l>As will chase all Seditious Thoughts away:</l>
+               </lg>
+               <lg>
+                  <l>Nay further, leave no room for such belief</l>
+                  <l>As made Thy Realms Credulity its Grief,</l>
+                  <l>And of Thy Subjects, the most Factious, chief.</l>
+               </lg>
+               <pb n="3" facs="tcp:49887:3"/>
+               <lg>
+                  <l>But now with better Notions Blest, we'll strive</l>
+                  <l>To make in Peace Thee and thy People Thrive;</l>
+                  <l>And in our Hearts keep Loyalty alive.</l>
+               </lg>
+               <lg>
+                  <l>Thy Attributes that claim a Publick Praise,</l>
+                  <l>I leave to those Contenders for the Bays,</l>
+                  <l>Who by their Pens their Fortunes hope to raise.</l>
+               </lg>
+               <lg>
+                  <l>My Duty, Love and Loyalty Combine</l>
+                  <l>To teach: he that <hi>Allegiance</hi> does design</l>
+                  <l>May say, <hi>My King's and Kingdoms Good is mine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Wherefore you Masters of your Pens and Wit,</l>
+                  <l>Speak out, and Publish what you know is fit;</l>
+                  <l>I'll have my self a Subjects share in it.</l>
+               </lg>
+               <lg>
+                  <l>Now in the Name of all the Throng, I Vow</l>
+                  <l>That Love and Liberty thou do'st Allow;</l>
+                  <l>We'll n'er abuse, but to thy Edicts bow.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>This to my King, now to my Countrey I</hi>
+                  </l>
+                  <l>
+                     <hi>Must shew where all its Ancient Glories lie</hi>
+                  </l>
+                  <l>
+                     <hi>Ripe for its Peace and sure Prosperity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>To ENGLAND.</head>
+               <lg>
+                  <l>SEe, see Blest <hi>Isle</hi> how by th' Almighty's Hand,</l>
+                  <l>Thy People's pleas'd, Protected too thy Land</l>
+                  <l>By One that could Obey, and can Command.</l>
+               </lg>
+               <lg>
+                  <l>Thou hadst not fore the Conquest, nor yet since,</l>
+                  <l>More <hi>Plea</hi> to prove thy Bliss, and men convince,</l>
+                  <l>How Mild yet Mighty is thy Gracious <hi>Prince.</hi>
+                  </l>
+               </lg>
+               <pb n="4" facs="tcp:49887:4"/>
+               <lg>
+                  <l>Skill'd in the Wars with Foes of God and man,</l>
+                  <l>And vers'd in all their Stratagems, He can</l>
+                  <l>As Subjects Rule, as Rebels them Trepan.</l>
+               </lg>
+               <lg>
+                  <l>Not by that thing He always scorn'd, <hi>Deceit,</hi>
+                  </l>
+                  <l>But Wisely lying for their Wiles in wait,</l>
+                  <l>He from their Malice will their Peace create.</l>
+               </lg>
+               <lg>
+                  <l>Until His Pow'r with Mercy mixt shall prove,</l>
+                  <l>He knows to Conquer both by Force and Love</l>
+                  <l>Them who to ruine Him have basely strove.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Exclusion</hi> from <hi>Revenge</hi> he does exclude,</l>
+                  <l>Each Subject b'ing by Loyalty allow'd</l>
+                  <l>To be still of his Princely Favour Proud.</l>
+               </lg>
+               <lg>
+                  <l>Gain but his Peaceful Heart, his Pow'rful Arm</l>
+                  <l>Will help, Defend, but never do thee harm,</l>
+                  <l>And thee with Greatness and New <hi>Charters</hi> Charm.</l>
+               </lg>
+               <lg>
+                  <l>Take with his Love and Care a Loyal part,</l>
+                  <l>And urge not still a Kings Indulgent Heart,</l>
+                  <l>That would (Caress and Pease) to make thee smart:</l>
+               </lg>
+               <lg>
+                  <l>Be Wise, and on Sedition cease to plod;</l>
+                  <l>Molest no more thy <hi>Monarch,</hi> least thy God</l>
+                  <l>Translate thy Soveraign's Scepter to a Rod.</l>
+               </lg>
+               <lg>
+                  <l>Temper thy Grief with Joy, since God has gi'n</l>
+                  <l>For one King took away, a King and Queen</l>
+                  <l>As Good as all their Ancestors have been.</l>
+               </lg>
+               <lg>
+                  <l>Two <hi>Charles</hi>'s thou hast lost, it is confest</l>
+                  <l>(Whilst they did Reign,) of Kings the very best;</l>
+                  <l>But with the Worth of both thy Prince is Blest,</l>
+               </lg>
+               <pb n="5" facs="tcp:49887:4"/>
+               <lg>
+                  <l>To loose, and to Embrace the best of Kings,</l>
+                  <l>Demonstrat's that well born-Affliction brings</l>
+                  <l>Thy Grief to Peace, thy Peace to better things.</l>
+               </lg>
+               <lg>
+                  <l>Nor must thou blame the fickleness of Fate,</l>
+                  <l>That makes upon thy Woe such Comforts wait,</l>
+                  <l>As teach Condoling to Congratulate.</l>
+               </lg>
+               <lg>
+                  <l>Who 'gainst the just Decrees of Heaven blames,</l>
+                  <l>The Blessed Death of <hi>Charles</hi> and Life of <hi>James,</hi>
+                  </l>
+                  <l>His own Rebellion 'gainst his God Proclaims.</l>
+               </lg>
+               <lg>
+                  <l>When Divine Fore-sight thinks-fit to Ordain</l>
+                  <l>Two Brothers shall in two Blest Kingdoms Reign,</l>
+                  <l>To fret against Omnipotence is vain.</l>
+               </lg>
+               <lg>
+                  <l>Where is the stroke of Fate; where is the Frown,</l>
+                  <l>When to the Sacred Monarch she pull'd down;</l>
+                  <l>She gave Successor to His Worth and Crown?</l>
+               </lg>
+               <lg>
+                  <l>As Gracious, Just and Clement without doubt,</l>
+                  <l>And if He chance to prove more Resolute,</l>
+                  <l>Twill be to bring thy Happiness about.</l>
+               </lg>
+               <lg>
+                  <l>Then do not Thwart (Dear Isle) thy Ruler's Power,</l>
+                  <l>But do Anticipate that Happy hour</l>
+                  <l>Will yield the Fruit of Peace, now in the Flower.</l>
+               </lg>
+               <lg>
+                  <l>Behold thy Hopes and Happiness in Bloom,</l>
+                  <l>Thou from thy Judge mayst claim a Glorious doom,</l>
+                  <l>If in thy Heart Great <hi>James</hi> ne'er wants a Room.</l>
+               </lg>
+               <lg>
+                  <l>Give but due value to His sound Advice,</l>
+                  <l>And then expect to that Old Fame a Rise,</l>
+                  <l>Which to Adore thee did the World entice.</l>
+               </lg>
+               <pb n="6" facs="tcp:49887:5"/>
+               <lg>
+                  <l>Thou that wast once the Precious Dowry stil'd,</l>
+                  <l>Of <hi>Mary</hi> Mother to th' Redeeming Child;</l>
+                  <l>Be to thy Ancient Virtue reconcil'd.</l>
+               </lg>
+               <lg>
+                  <l>Let not the Soveraign's Power, but Subjects Love</l>
+                  <l>Teach thee How to Applaud and to Approve,</l>
+                  <l>Thy Joys in <hi>James</hi> the Great, Decreed Above.</l>
+               </lg>
+               <lg>
+                  <l>Let not thy fond Dissenting Children say,</l>
+                  <l>His Pow'r alone; but Piety does sway,</l>
+                  <l>And make them all their due <hi>Allegiance</hi> pay.</l>
+               </lg>
+               <lg>
+                  <l>He that does Royal Clemency abuse,</l>
+                  <l>Resembling so the Flinty hearted <hi>Jews,</hi>
+                  </l>
+                  <l>Acts oft too soon, what oft too late he Rues.</l>
+               </lg>
+               <lg>
+                  <l>Mind then in time; Supply thy Princes wants,</l>
+                  <l>Unanimous and Frank be in thy Grants;</l>
+                  <l>'Tis th' Liberal Subject who his King Inchants.</l>
+               </lg>
+               <lg>
+                  <l>And who can Wealth to better purpose spend,</l>
+                  <l>Than to make King and Kingdom both his Friend;</l>
+                  <l>With whom none but a Rebel dare contend.</l>
+               </lg>
+               <lg>
+                  <l>Be open then both in thy Heart and Hand,</l>
+                  <l>And from thy Prince expect no more Command,</l>
+                  <l>Than what may with thy Blest Improvement stand.</l>
+               </lg>
+               <lg>
+                  <l>But now let's hear th' Exulting People Cry,</l>
+                  <l>
+                     <hi>Let ne'er King <hi>JAMES</hi> nor His Queen <hi>MARY</hi> Die.</hi>
+                  </l>
+                  <l>
+                     <hi>So to Facilitate Posterity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
